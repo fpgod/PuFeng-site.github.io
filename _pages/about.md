@@ -8,22 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-My name is pronounced as shin-yoo. I am a Ph.D. student at the State Key Laboratory of Software Development Environment (SKLSDE) and School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, supervised by Prof. <a href="https://www.researchgate.net/profile/Wenjun-Wu-15">Wenjun Wu</a> and <a href="https://rongyeshi.github.io/">Rongye Shi</a>.
+My name is Pu Feng. I am a Ph.D. student at the State Key Laboratory of Software Development Environment (SKLSDE) and School of Computer Science and Engineering (SCSE) , Beihang University, Beijing, China, supervised by Prof. <a href="https://www.researchgate.net/profile/Wenjun-Wu-15">Wenjun Wu</a> and <a href="https://rongyeshi.github.io/">Rongye Shi</a>.
 
 Research
 ======
-My research focuses on controlling multi-robot systems through multi-agent reinforcement learning (MARL). To address the practical training challenges of reinforcement learning (RL), I integrate domain expertise with RL to improve sample efficiency and convergence. This strategy not only mitigates the practical training constraints of RL but also expands the applicability of MARL in multi-robot operations. In addition, I am interested in Imitation Learning, Embodied AI based on Large Language Models (LLM), and Robust MARL.
+My research focuses on controlling multi-robot systems through multi-agent reinforcement learning (MARL). To address the practical training challenges of reinforcement learning (RL), I integrate domain expertise with RL to improve sample efficiency and convergence. This strategy not only mitigates the practical training constraints of RL but also expands the applicability of MARL in multi-robot operations. In addition, I am interested in Embodied AI based on Large Language Models (LLM), and Robust MARL.
 
 Recent News
 ======
+<p style="font-size:18px"> <strong>[2024.7]</strong> One first-authored paper on safe and efficient MARL accepted by RAL.</p>
 <p style="font-size:18px"> <strong>[2024.7]</strong> One co-authored paper on robust MARL accepted by ECAI 2024.</p>
-<p style="font-size:18px"> <strong>[2024.7]</strong> One co-authored paper on consensus MARL accepted by IROS 2024.</p>
-<p style="font-size:18px"> <strong>[2024.01]</strong> One first-authored paper on Multi-robot accepted by ICRA 2024.</p>
-<p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on robust MARL accepted by ICLR 2024.</p>
-<p style="font-size:18px"> <strong>[2023.12]</strong> One first-authored paper on physical-informed MARL accepted by AAAI 2024.</p>
-<p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on reinforcement learning accepted by ICDE 2024.</p>
-<p style="font-size:18px"> <strong>[2023.07]</strong> One first-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
-<p style="font-size:18px"> <strong>[2023.06]</strong> One co-authored paper on efficient MARL accepted by ICSI 2023.</p>
+<p style="font-size:18px"> <strong>[2024.7]</strong> One First-authored paper on consensus MARL accepted by IROS 2024.</p>
+<p style="font-size:18px"> <strong>[2024.01]</strong> One co-authored paper on Multi-robot accepted by ICRA 2024.</p>
+<p style="font-size:18px"> <strong>[2023.12]</strong> One co-authored paper on physical-informed MARL accepted by AAAI 2024.</p>
+<p style="font-size:18px"> <strong>[2023.07]</strong> One co-authored paper on physical-informed MARL accepted by ECAI 2023.</p>
+<p style="font-size:18px"> <strong>[2023.06]</strong> One first-authored paper on efficient MARL accepted by ICSI 2023.</p>
 
 
 Publications
